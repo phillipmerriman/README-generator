@@ -68,7 +68,7 @@ inquirer.prompt([
     
     🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
     
-    Badges
+    ##Badges
     
     Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
     
@@ -78,5 +78,7 @@ inquirer.prompt([
     ##Tests
     ${response.testInstructions}
 
-    © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.`, err => err ? console.error(err) : console.log("hip, hip, horray!")
+    © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.`, 
+    
+    err => err ? console.error(err) : console.log("hip, hip, horray!")
 ))
