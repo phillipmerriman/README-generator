@@ -1,15 +1,27 @@
-#Title today
+#title
+
+    ##Table of Contents (Optional)
+    
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [License](#license)
+    - [Badges](#badges)
+    - [Contributions](#contributing)
+    - [Tests](#test)
+    
 
     ##Description
-    this describes the ding-dang thing!
+    described
     
-    ##Table of Contents (Optional)
-    If your README is very long, add a table of contents to make it easy for users to find what they need.
     
     ##Installation
-    step 1, step 2, step 3
+    install it
+
     ##Usage
-    install it, open it, use it!
+    this is how we do it
+
     ##Credits
     List your collaborators, if any, with links to their GitHub profiles.
     If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
@@ -25,9 +37,9 @@
     Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
     
     ##Contributing
-    be kind, rewind   
+    follow our rules!   
 
     ##Tests
-    test it with tests
+    do it likes this
 
     © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

@@ -48,16 +48,28 @@ inquirer.prompt([
 ]).then(response => fs.writeFile("README1.md", 
     `#${response.title}
 
+    ##Table of Contents (Optional)
+    
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Credits](#credits)
+    - [License](#license)
+    - [Badges](#badges)
+    - [Contributions](#contributing)
+    - [Tests](#test)
+    
+
     ##Description
     ${response.description}
     
-    ##Table of Contents (Optional)
-    If your README is very long, add a table of contents to make it easy for users to find what they need.
     
     ##Installation
     ${response.installation}
+
     ##Usage
     ${response.usageInfo}
+
     ##Credits
     List your collaborators, if any, with links to their GitHub profiles.
     If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
