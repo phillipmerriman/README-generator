@@ -40,6 +40,11 @@ inquirer.prompt([
     },
     {
         type: "input",
+        name: "credits",
+        message: "List your collaborators, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section. If you followed tutorials, include links to those here as well."
+    },
+    {
+        type: "input",
         name: "usageInfo",
         message: "Provide instructions and examples for using your application."
     },
@@ -58,6 +63,16 @@ inquirer.prompt([
         name: "license",
         message: "Which license? If you need help choosing a license, use https://choosealicense.com/",
         choices: licenses
+    },
+    {
+        type: "input",
+        name: "githubUsername",
+        message: "Enter your github username."
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "Enter your email."
     }
 
 ]).then(response => writeFile(response));
