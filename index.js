@@ -77,4 +77,6 @@ inquirer.prompt([
         message: "Enter your email."
     }
 
-]).then(response => writeFile(response));
+])
+//write the responses to new readme file from write-file import
+.then(response => writeFile(response));
