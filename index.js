@@ -1,4 +1,4 @@
-
+//require node modules
 const inquirer = require("inquirer");
 const writeFile = require("./write-file.js");
 const licenses = [
