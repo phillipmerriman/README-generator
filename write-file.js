@@ -4,6 +4,7 @@ const fs = require("fs");
 //create function to write new readme file from the user responses. Export using module.exports
 module.exports = (response) => {
 
+    //using fs.writeFile(), create new readme based on user input
     fs.writeFile("README1.md", 
 
 `# ${response.title}
