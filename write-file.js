@@ -7,6 +7,7 @@ module.exports = (response) => {
     //using fs.writeFile(), create new readme based on user input
     fs.writeFile("README1.md", 
 
+    //modifiable readme template
 `# ${response.title}
 
 ![md](https://img.shields.io/badge/license-${response.license.replace(/\s/g, '&nbsp;')}-success)
