@@ -1,4 +1,4 @@
-// const fs = require("fs");
+
 const inquirer = require("inquirer");
 const writeFile = require("./write-file.js");
 const licenses = [
