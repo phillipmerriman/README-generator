@@ -8,6 +8,7 @@ module.exports = (response) => {
     fs.writeFile("README1.md", 
 
     //modifiable readme template
+    // use regex to take care of empty spaces inside the names of any licenses, so that it renders properly to the new readme
 `# ${response.title}
 
 ![md](https://img.shields.io/badge/license-${response.license.replace(/\s/g, '&nbsp;')}-success)
