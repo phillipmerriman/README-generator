@@ -1,8 +1,6 @@
 const fs = require("fs");
 
 module.exports = (response) => {
-    
-    // var response.license = response.license.replace(/\s/g, '&nbsp;');
 
     fs.writeFile("README1.md", 
 
