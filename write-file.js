@@ -50,7 +50,7 @@ If you have additional questions, you can reach me here:\n
 ${response.email}\n
 https://github.com/${response.githubUsername}
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.`, 
+© 2020`, 
     
     err => err ? console.error(err) : console.log("hip, hip, horray!")
 )}
