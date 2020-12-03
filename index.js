@@ -23,6 +23,7 @@ const licenses = [
     "Proprietary"
 ]
 
+//create inquirer prompts
 inquirer.prompt([
     {
         type: "input",
