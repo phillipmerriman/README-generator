@@ -1,6 +1,7 @@
 //require node modules
 const inquirer = require("inquirer");
 const writeFile = require("./write-file.js");
+//array to hold choice of licenses
 const licenses = [
     "Apache License 2.0",
     "GNU General Public License v3.0",
