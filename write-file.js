@@ -20,7 +20,6 @@ module.exports = (response) => {
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
 - [Contributions](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
