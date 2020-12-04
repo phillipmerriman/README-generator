@@ -5,6 +5,7 @@ Did you ever want to make a readme for your project, but just didnt know where t
 ![What it looks like](image/readmegenerator.PNG)
 
 ## How to use?
-Open the command line, and type, 'node index.js', hit 'enter', and you will be given a series of prompts to answer. Once you have finished answering all the prompts, a new readme file will be generated! You can view the Github repo [here!](https://github.com/phillipmerriman/README-generator)
+Open the command line, and type, 'node index.js', hit 'enter', and you will be given a series of prompts to answer. Once you have finished answering all the prompts, a new readme file will be generated! You can view an instructional video [here](https://drive.google.com/file/d/1B6mKdXCyHvtRd2exauJ2VAjfmCAa3wDU/view) 
+and the Github repo [here!](https://github.com/phillipmerriman/README-generator)
 
 © 2020 [Phillip Merriman](https://github.com/phillipmerriman)
