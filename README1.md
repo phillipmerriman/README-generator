@@ -1,4 +1,4 @@
-# Title
+# title
 
 ![md](https://img.shields.io/badge/license-MIT&nbsp;License-success)
 
@@ -9,14 +9,13 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
 - [Contributions](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 
 ## Description
-This describes the project.
+this describes the project.
 
 
 ## Installation
