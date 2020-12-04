@@ -1,6 +1,6 @@
-# titles
+# Title
 
-![md](https://img.shields.io/badge/license-Apache&nbsp;License&nbsp;2.0-success)
+![md](https://img.shields.io/badge/license-MIT&nbsp;License-success)
 
 ## Table of Contents
 
@@ -16,26 +16,26 @@
 
 
 ## Description
-description
+This describes the project.
 
 
 ## Installation
-installation
+installations steppes
 
 ## Usage
-instructions for use
+this is how we do it.
 
 ## Credits
-collaborators
+people who collaborated.
 
 ## License
-Apache License 2.0 
+MIT License 
 
 ## Contributing
-rules and guidelines   
+be nice to one another.   
 
 ## Tests
-what are we testing with>
+testy mctesterson
 
 ## Questions
 If you have additional questions, you can reach me here:
@@ -44,4 +44,4 @@ phillipmerriman@gmail.com
 
 https://github.com/phillipmerriman
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020
